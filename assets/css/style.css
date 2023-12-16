@@ -1,0 +1,51 @@
+.f{display: flex;}
+
+.margin_chat{padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 30px;}
+
+.m_chat{padding-left: 10px;}
+
+.ai{width: 75%;
+background-color: #E8EBE4;}
+
+.aii{width: 25%;}
+
+.imagen_hand{justify-content: center;
+align-items: center;}
+
+.hand{height: 200px;
+width: 200px;}
+
+img{height: 45px;
+width: 45px;
+border-radius: 50%;}
+
+.boton{justify-content: center;
+padding: 40px;}
+.b{background-color: #A491E2;
+color: white;
+border-radius: 0%;
+width: 90%;
+height: 70%;}
+
+
+.centrar{justify-content: center;}
+
+.i_nav{height: 35px;
+width: 35px;
+padding-left: 0px;}
+
+.maria{padding-left: 15px;}
+
+.pnav{padding-top: 8px;}
+
+.iconos{padding-right: 40px:}
+
+.seccion{flex-direction: column;}
+
+.ss{justify-content: center;}
+
+.parrafo{width: 55%;
+margin-left: 22.5%;
+text-align: center;}
